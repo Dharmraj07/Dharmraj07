@@ -6,6 +6,7 @@ using namespace std;
       int a,b;
       cin>>a>>b;
       int sum=a+b;
-      cout<<sum<<endl;
+      cout<<"Result = "sum<<endl;
+            
       return 0;
       }
